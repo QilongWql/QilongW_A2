@@ -1,0 +1,4 @@
+repository "QilongW_A2@tj_wangqilong@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
